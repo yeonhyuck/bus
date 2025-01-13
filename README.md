@@ -1,8 +1,9 @@
 #개요
-공공 api를 이용한 실시간 버스 정
+공공 api를 이용한 실시간 버스 정보
 
 # overview
 ![image](https://github.com/user-attachments/assets/3a1479b1-a0e1-4628-87e7-909ddd1e620b)
+
 
 ![image](https://github.com/user-attachments/assets/b599c298-a87f-4f4d-8a4f-4b2ecd2bdeaf)
 
