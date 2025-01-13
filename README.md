@@ -2,9 +2,9 @@
 공공 api를 이용한 실시간 버스 정
 
 # overview
-![image](https://github.com/user-attachments/assets/7e204daf-d281-48b9-ab39-83ee62c0ea40)
+![image](https://github.com/user-attachments/assets/3a1479b1-a0e1-4628-87e7-909ddd1e620b)
 
-![image](https://github.com/user-attachments/assets/ecf025bb-5cf0-47f9-806f-1aa349a76fd7)
+![image](https://github.com/user-attachments/assets/cb72b857-2e3c-4950-a8d2-e95b10fa02d9)
 
 ![image](https://github.com/user-attachments/assets/73a98878-beb8-4ce7-85c7-9f0cc6dcf334)
 
