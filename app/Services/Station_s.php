@@ -13,7 +13,7 @@ class Station_s
 
     }
 
-    private $servicekey = "z77ZBdChsMxxR8HY78hs5hmHVwO0wZwa7S2NGyV4EfrS2vRy%2BIvbtySGeg%2BpNzXQjz6eGlqNYOXRZj%2F6HrlMkw%3D%3D";
+    private $servicekey = "";
 
     function search($dto_params) {
         // print_r($dto_params);exit;
