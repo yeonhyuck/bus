@@ -11,7 +11,7 @@ namespace App\Services;
 class Bus_s
 {
     //api url 접근하는 서비스키
-    private $servicekey = "z77ZBdChsMxxR8HY78hs5hmHVwO0wZwa7S2NGyV4EfrS2vRy%2BIvbtySGeg%2BpNzXQjz6eGlqNYOXRZj%2F6HrlMkw%3D%3D";
+    private $servicekey = "";
 
     //api 공통 url
     private $apiurl = "http://apis.data.go.kr/1613000/BusRouteInfoInqireService";
